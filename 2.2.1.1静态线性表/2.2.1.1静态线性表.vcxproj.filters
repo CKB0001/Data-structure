@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\2.2.1.1静态线性表\2.2.1.1静态线性表\xian.c">
+    <ClCompile Include="xian.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

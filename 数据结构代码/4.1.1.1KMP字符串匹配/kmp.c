@@ -167,8 +167,7 @@ int String_Matching(String T1, String T2, int* pm) {
 		}
 		else {
 			if (T1.ch[i] != T2.ch[j]) {
-				move = j - *(pm + (j - 1));
-				i = i - j + move;
+				move = j - *(pm + (j - 1));				i = i - j + move;
 				j = 0;
 			}
 		}

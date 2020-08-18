@@ -21,7 +21,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.2.2.1折半查找", "7.2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.1.1栈（顺序存储）", "3.1.1.1栈（顺序存储）\3.1.1.1栈（顺序存储）.vcxproj", "{E8371582-816C-4678-A30A-CCC709A94DF7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.2.1队列(顺序存储)", "3.1.2.1队列\3.1.2.1队列.vcxproj", "{F565D85D-5A99-4EEE-BB08-36DFC2FDAAFE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.2.1队列(顺序存储)", "3.1.2.1队列（顺序存储）\3.1.2.1队列.vcxproj", "{F565D85D-5A99-4EEE-BB08-36DFC2FDAAFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.1.2栈（链式存储）", "3.1.1.2栈（链式存储）\3.1.1.2栈（链式存储）.vcxproj", "{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,14 @@ Global
 		{F565D85D-5A99-4EEE-BB08-36DFC2FDAAFE}.Release|x64.Build.0 = Release|x64
 		{F565D85D-5A99-4EEE-BB08-36DFC2FDAAFE}.Release|x86.ActiveCfg = Release|Win32
 		{F565D85D-5A99-4EEE-BB08-36DFC2FDAAFE}.Release|x86.Build.0 = Release|Win32
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Debug|x64.ActiveCfg = Debug|x64
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Debug|x64.Build.0 = Debug|x64
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Debug|x86.Build.0 = Debug|Win32
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Release|x64.ActiveCfg = Release|x64
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Release|x64.Build.0 = Release|x64
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Release|x86.ActiveCfg = Release|Win32
+		{2CBEA1F0-DDBE-44CB-A610-9E3C6AF00D5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
